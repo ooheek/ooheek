@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ooheek" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ooheek&hide=stars,issues" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooheek&layout=compact" />
