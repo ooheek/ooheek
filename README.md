@@ -2,7 +2,7 @@
 
 <h3 align="center">🐥 My Portfolio 🐥</h3>
 <p align="center">
-  <a href="https://www.notion.so/2f8ee852fdd64774a69798a12b9dea23">
+  <a href="https://beautiful-lemongrass-11b.notion.site/Hello-a00d1ef6774546099da6349a8732f6b2">
     <img src="https://img.shields.io/badge/Click!-FF9E0F?style=for-the-badge&logoColor=white&link=https://www.notion.so/2f8ee852fdd64774a69798a12b9dea23"/>
   </a>
 </p>
